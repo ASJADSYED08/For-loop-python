@@ -6,6 +6,3 @@ for item,age in list1:
 
 for item in dict1:
     print(item)                
-
-
-
